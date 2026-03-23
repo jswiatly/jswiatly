@@ -1,5 +1,3 @@
-# HELLO
-
 ## Current Project - TBD
 
 ### Notable Projects

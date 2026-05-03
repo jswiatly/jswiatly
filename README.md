@@ -1,5 +1,10 @@
 ## Current Project - [Cache Bench](https://github.com/jswiatly/CACHE_BENCH)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jswiatly.jswiatly&"  />
+</div>
+
+
 ### Notable Projects
 - [Game jams] using Unity and Godot
 - [Cache Bench](https://github.com/jswiatly/CACHE_BENCH) - benchmark written in C to test Ryzen X3D with dual CCD

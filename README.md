@@ -1,6 +1,5 @@
 Software engineer focused on low-level programming, graphics, and performance.
 
-## Current Project - [Cache Bench](https://github.com/jswiatly/CACHE_BENCH)
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jswiatly.jswiatly&"  />
 </div>
